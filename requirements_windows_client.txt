@@ -1,0 +1,3 @@
+python-socketio[client]==5.16.0
+pywin32==311 
+striprtf==0.0.29 
