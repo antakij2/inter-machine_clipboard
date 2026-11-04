@@ -3,9 +3,9 @@
 A server and several clients to allow copying content on one device and pasting it on other devices. Currently, there are clients for iPhones and Windows PCs. 
 
 The iPhone client is actually split into 3 iOS Shortcuts, downloadable from these links:
-    - [Send to IMC](https://www.icloud.com/shortcuts/356b7c31aaa04127b02f228a1a66f33a)
-    - [Get from IMC](https://www.icloud.com/shortcuts/ed790dc4d9ac4c168e10668a7702a1d6)
-    - [Save Clipboard to Photos](https://www.icloud.com/shortcuts/63e55ce69da443cf9c7bb15a01771235)
+- [Send to IMC](https://www.icloud.com/shortcuts/356b7c31aaa04127b02f228a1a66f33a)
+- [Get from IMC](https://www.icloud.com/shortcuts/ed790dc4d9ac4c168e10668a7702a1d6)
+- [Save Clipboard to Photos](https://www.icloud.com/shortcuts/63e55ce69da443cf9c7bb15a01771235)
 
 On iPhone, you must copy content the normal way first, and then run the Send to IMC shortcut. Or, tap "Share" on your content and select Send to IMC from the Share Sheet. Similarly, you must run the Get from IMC shortcut to download content from the IMC server to your iPhone's clipboard, and then paste that content the normal way. The Save Clipboard to Photos shortcut allows you to do just that.
 
