@@ -13,8 +13,8 @@ On Windows, whatever you copy is automatically sent to the IMC server, and whate
 
 ## How to run
 1. Run `python server.py` on the machine you want to be the IMC server. Do this from the same directory `server.py` is in. 
-2. Wait until the log shows a line containing `wsgi starting up on http://[ip address]:[port]`. The server is now ready.
-3. Run `python windows_server.py` on your Windows PC. Now you're good to go.
+2. Wait until the log shows a line containing `wsgi starting up on http://<ip address>:<port>`. The server is now ready.
+3. Run `python windows_server.py -s <ip address of server>` on your Windows PC. Now you're good to go.
 
 ## Bugs 
 - Currently, the server and clients send data back and forth in ***PLAIN, UNENCRYPTED HTTP***, so **USE WITH CAUTION!!!**
